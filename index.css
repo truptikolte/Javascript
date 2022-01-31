@@ -1,0 +1,31 @@
+body {
+ background-color: seashell;
+ background-size: cover;
+}
+
+h1 {
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 200;
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 200;
+    margin-bottom: 10px;
+}
+
+/*button {
+    background-color: gold;
+    border: none;
+    text-align: center;
+    border-radius: 5px;
+    color: snow;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 16px;
+}*/
